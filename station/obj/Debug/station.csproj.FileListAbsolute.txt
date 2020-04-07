@@ -1,0 +1,222 @@
+E:\2018项目材料\精准农业\station\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station - 副本\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station - 副本\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station - 副本\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station - 副本\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190829\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190829\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190829\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190829\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190903\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190903\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190903\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190903\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190904\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190904\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190904\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190904\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190905\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190905\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190905\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190905\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190905 - 副本\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190906\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190906\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190906\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190906\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20190906 - 副本\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191009\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191009\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191009\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191009\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191015\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191015\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191015\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191015\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191016\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191016\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191016\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191016\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191016_up_ok\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191017\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191017\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191017\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191017\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191120\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191120\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191120\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191120\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191121\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191121\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191121\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191121\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191220\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-20191220\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191220\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-20191220\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-201912202\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-201912202\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-201912202\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-201912202\station\obj\Debug\station.pdb
+E:\2018项目材料\精准农业\station-201912203\station\bin\Debug\station.exe.config
+E:\2018项目材料\精准农业\station-201912203\station\bin\Debug\station.exe
+E:\2018项目材料\精准农业\station-201912203\station\bin\Debug\station.pdb
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.csprojAssemblyReference.cache
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.Form1.resources
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.Form2.resources
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.Form3.resources
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.Properties.Resources.resources
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.csproj.GenerateResource.cache
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.csproj.CoreCompileInputs.cache
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.exe
+E:\2018项目材料\精准农业\station-201912203\station\obj\Debug\station.pdb

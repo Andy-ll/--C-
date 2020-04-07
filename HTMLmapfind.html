@@ -1,0 +1,81 @@
+﻿
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+    <style type="text/css">
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            font-family: "微软雅黑";
+        }
+
+
+
+        #l-map {
+            height: 320px;
+            width: 100%;
+        }
+
+
+
+        #r-result, #r-result table {
+            width: 100%;
+        }
+    </style>
+
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=3bQtX2aoasHhmduaGVivFFhUipdsec33"></script>
+
+    <title>驾车导航的结果面板</title>
+
+</head>
+
+<body>
+
+    <div>    起点：<input type="text" id="txtStart" width="10" />  终点：<input type="text" id="txtStop" width="10" /> <input type="button" id="btnSerach" value="查询" οnclick="show()" /></div>
+
+    <div id="l-map"></div>
+
+    <div id="r-result"></div>
+
+</body>
+
+</html>
+
+<script type="text/javascript">
+
+    // 百度地图API功能
+
+    var map = new BMap.Map("l-map");
+
+    map.centerAndZoom(new BMap.Point(116.404, 39.915), 14);
+
+    map.enableScrollWheelZoom(true);
+
+    function show() {
+
+        var map = new BMap.Map("l-map");
+
+        map.centerAndZoom(new BMap.Point(116.404, 39.915), 10);
+
+        map.enableScrollWheelZoom(true);
+
+        var driving = null;
+
+        var start = document.getElementById("txtStart").value;
+
+        var stop = document.getElementById("txtStop").value;
+
+        driving = new BMap.DrivingRoute(map, { renderOptions: { map: map, panel: "r-result", autoViewport: true } });
+
+        driving.search(start, stop);
+
+    }
+
+</script>
